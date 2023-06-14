@@ -2,31 +2,31 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6288233832771', '628871888457']  
+global.mods = ['6288233832771'] 
+global.prems = ['6288233832771']
+global.nameowner = 'mrsd'
+global.numberowner = '6288233832771' 
+global.mail = 'mursidxml@gmail.com' 
+global.dana = '088233832771'
+global.pulsa = '083189913217'
+global.gopay = '088233832771'
+global.namebot = 'мυʀѕι∂ вσт-χмℓ'
+global.gc = 'https://chat.whatsapp.com/K4k4vkiENh11HMBMCZ8eox'
+global.web = 'https://github.com/mursidxml'
+global.instagram = 'https://instagram.com/mursid.st'
+global.wm = 'мυʀѕι∂ вσт-χмℓ'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
-global.wm4 = '© BotWa'
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
+global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
+global.wm4 = 'мυʀѕι∂ вσт-χмℓ'
+global.wait = '_*Loading...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.benar = 'Benar'
+global.salah = 'Salah'
+global.stiker_wait = '*Loading...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'мυʀѕι∂ вσт-χмℓ'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
 global.btc = 'CaydVnuV' //Daftar terlebih dahulu https://api.botcahx.live
