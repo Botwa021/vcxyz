@@ -25,7 +25,7 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ*_'
 global.benar = 'Benar'
 global.salah = 'Salah'
 global.stiker_wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬*_'
-global.packname = 'Made with'
+global.packname = 'ᴍᴀᴅᴇ ᴡɪᴛʜ'
 global.author = 'мυʀѕι∂ вσт-χмℓ'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
